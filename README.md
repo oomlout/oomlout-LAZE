@@ -1,17 +1,17 @@
 # oomlout-LAZE  
 Instructions on how to get files to oomlout for laser cutting. 
 
-## Laser Cutter Details
-Model: HPC Laser 1290 [Buy Online](http://hpclaser.co.uk/index.php?main_page=product_info&cPath=1&products_id=2)
-Cutting Area: 1200 mm x 900 mm (Best to leave a 5cm border to leave room to hold down material)
-	
+## Laser Cutter Details  
+Model: HPC Laser 1290 [Buy Online](http://hpclaser.co.uk/index.php?main_page=product_info&cPath=1&products_id=2)  
+Cutting Area: 1200 mm x 900 mm (Best to leave a 5cm border to leave room to hold down material)  
+	  
 ## Document Style  
 Our laser cutter differentiates between different cut powers/styles by using the objects outline colour.   
 	  
-Colour Space: RGB	 
-Fill: None  
-Line Width: Doesn't matter  
-Line Colour: Varies with cut style    
+* Colour Space: RGB	 
+* Fill: None  
+* Line Width: Doesn't matter  
+* Line Colour: Varies with cut style    
   
 ### Traditional Cuts
 | Cut Type 	| Colour 	| RGB 			| Code		| Cut Order		| Description 				  
@@ -42,7 +42,7 @@ Publish as PDF. --> (Use 'Press Quality' other versions add compression)
 	
 ##### Post Processing
 * Import into Corel
-* Undgroup
+* Ungroup
 * Set fill to none. (often white is used to hide objects)
 * Make sure scale looks right and things are nto a miss
 * Export as DXF.
@@ -58,11 +58,6 @@ Publish as pdf.
 * Select All
 * Set fill as None (sometimes lines have fills which results in problems)
 * Export as DXF
-
-#### Inkscape (DXF-LaserCut
-We tend not to use this as have had interesting problems crop up. It can be used but careful attention should be paid to the first time any file is cut.
-##### Issues
-* Superscript and subscript text gets lost.
 
 ## Examples
 Example template files, and pictures of results to follow.
