@@ -59,6 +59,12 @@ Publish as pdf.
 * Set fill as None (sometimes lines have fills which results in problems)
 * Export as DXF
 
+## Readable File Formats
+
+Corel Draw --> (.cdr) --> upto X4 (14)
+Adobe Illustrartor --> (.ai) --> Upto version 10 (Turn off compression)
+
+
 ## Examples
 Example template files, and pictures of results to follow.
 	
