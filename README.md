@@ -39,6 +39,25 @@ Publish as PDF. --> (Use 'Press Quality' other versions add compression)
 ##### Issues
 * Patterned brushes do not work.
 * Sometimes obejects with white fill are included, these hide lines that the laser will still cut.	
+
+#### Illustrator (Direct)   
+1. Create a new file. (Use RGB colour space)  
+2. Copy and paste the parts you want to cut.  
+3. Expand all text.  
+4. Ungroup all expanded text.  
+5. Make sure all colours are true RGB values (ie blue 255,0,0)  
+6. Export  
+  1. File format (Autocad - DXF).
+  2. Maximum editability  
+  3. Version 2010-2011-2012.  
+  4. Units inches.  
+  5. Scale factor (1:1)
+  6. Export selected only.
+
+
+####  Issues
+* Text needs to be expanded and ungrouped. Otherwise imports as black only.
+* Scaling is an issue. The laser cutter expects inches, and you need to keep a 1:1 ratio when exporting from illustrator.
 	
 ##### Post Processing
 * Import into Corel
