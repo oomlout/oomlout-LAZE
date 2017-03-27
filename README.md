@@ -25,6 +25,8 @@ Our laser cutter differentiates between different cut powers/styles by using the
 | ----			| ----		| ----			| ----		| ----			| ----  
 | Dashed Cut	| Green		| (0,255,0)		| DASH-01	| 04			| Cuts a dashed line. This means the parts remain in a sheet and can be popped out. Cut and gap distances vary by material.  
 | Cut Last		| Red		| (255,0,0)		| LAST-01	| 05			| When not cutting fully closed objects. Use this style to cut last (ie. leave a bounding box until last, or a part that falls out and fouls others)  
+| Heavy Engrave	| Pink		| (255,153,204)	| ENGH-01	| 06			| A very deep engrave.
+| Start Dashed	| Broen		| (255,0,0)		| STDA-01	| 07			| Start with a space, this can be used to make sure small pieces don't fall through.
 
 ## Materials 
 Will be filled in with available materials and cut speeds for reference.  
