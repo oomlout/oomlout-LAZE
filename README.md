@@ -19,6 +19,7 @@ Our laser cutter differentiates between different cut powers/styles by using the
 | Cut		| Black		| (0,0,0)		| CUTT-01	| 03			| Simple cut all the way through the material.  
 | Etch		| Blue		| (0,0,255)		| ETCH-01	| 02			| Vector etch. (Like a line drawing)  
 | Engrave	| Magenta	| (255,0,255) 	| ENGR-01	| 01			| Raster engrave. (Scans the image line by line)  
+| No Cut	| Cyan		| (0,255,255) 	| NOCU-01	| 04			| Used for guidelines etc, anything you want in the drawing but don't want the laser to cut.
   
 ### Special Cuts 
 | Cut Type 		| Colour 	| RGB 			| Code		|	Cut Order	|	Description 				 
