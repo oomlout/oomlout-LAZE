@@ -52,9 +52,9 @@ Publish as PDF. --> (Use 'Press Quality' other versions add compression)
 6. Export  
   1. File format (Autocad - DXF).
   2. Maximum editability  
-  3. Version 2010-2011-2012.  
+  3. Version 2010-2011-2012.  (Or 2004-etc.)  
   4. Units inches.  
-  5. Scale factor (1:1)
+  5. Scale factor (1:1) (If using 2004 use the provided 0.0394 scale factor)
   6. Export selected only.
 
 
