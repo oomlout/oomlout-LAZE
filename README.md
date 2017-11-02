@@ -54,7 +54,7 @@ Publish as PDF. --> (Use 'Press Quality' other versions add compression)
   2. Maximum editability  
   3. Version 2010-2011-2012.  (Or 2004-etc.)  
   4. Units inches.  
-  5. Scale factor (1:1) (If using 2004 use the provided 0.0394 scale factor)
+  5. Scale factor (1:1) (If using 2004 scale=0.0394 units=0.0394)
   6. Export selected only.
 
 
