@@ -28,6 +28,8 @@ Our laser cutter differentiates between different cut powers/styles by using the
 | Cut Last		| Red		| (255,0,0)		| LAST-01	| 05			| When not cutting fully closed objects. Use this style to cut last (ie. leave a bounding box until last, or a part that falls out and fouls others)  
 | Heavy Engrave	| Pink		| (255,153,204)	| ENGH-01	| 06			| A very deep engrave.
 | Start Dashed	| Brown		| (102,51,51)	| STDA-01	| 07			| Start with a space, this can be used to make sure small pieces don't fall through.
+| Dashed Etch	| Powder Blue	| (204,204,255)	| DASE-01	| 08		| Dashed engrave (adjustable time to time)
+
 
 ## Materials 
 Will be filled in with available materials and cut speeds for reference.  
